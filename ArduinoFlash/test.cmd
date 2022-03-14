@@ -1,0 +1,2 @@
+"C:\lavoro\biemme projects\ArduinoFlash\ArduinoFlash\avr\bin\avrdude.exe" -C "C:\lavoro\biemme projects\ArduinoFlash\ArduinoFlash\avr\etc\avrdude.conf" -v -p atmega328p -c arduino -P COM4 -b 115200 -D -U flash:w:"D:\Davide\Documenti\Arduino\Contrinex001\Contrinex001.ino.hex" :i
+pause
